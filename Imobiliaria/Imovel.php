@@ -88,3 +88,4 @@ $casa -> cadastraNovo("Rua Jorge Lacerda, 181",460000,"Nova na cor branca");
 $casa -> imprimeNovo();
 $casa -> descontoNovo(0.5);
 
+$casa2 = new Usado();

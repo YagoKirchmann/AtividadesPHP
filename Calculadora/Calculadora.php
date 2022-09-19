@@ -36,8 +36,8 @@ class Calculadora{
 }
 
 $calculo1 = new calculadora();
-$calculo1 -> Subtracao(110,10);
-$calculo1 -> Soma(110,10);
-$calculo1 -> Divisao(110,10);
-$calculo1 -> Multiplicacao(110,10);
+$calculo1 -> Subtracao(110,20);
+$calculo1 -> Soma(110,20);
+$calculo1 -> Divisao(110,20);
+$calculo1 -> Multiplicacao(110,20);
 
